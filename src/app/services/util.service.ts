@@ -74,7 +74,7 @@ export class UtilService{
         }
     
      makeName():string {
-        const names = ['Jaykumar Bhavsar', 'Vijay Renge', 'Shubham Karnewar', 'Nikhil Kamble', 'Yogesh Deshpande','Suyog Aawte','Suraj Patil', 'Pratik Ghuge', 'Kishor Borse', 'Adva Catz', 'Liel Bendor', 'Atalia Zahavy', 'Daniel Peretz']
+        const names = ['Jaykumar Bhavsar', 'Vijay Renge', 'Shubham Karnewar', 'Nikhil Kamble', 'Yogesh Deshpande','Suyog Aawte','Suraj Patil', 'Pratik Ghuge', 'Kishor Borse', 'Abhi Rapatwar', 'Satish Ghube', 'Vikas Kadam', 'Shivaji Waghmares']
         return names[Math.floor(Math.random() * names.length)]
     }
 
